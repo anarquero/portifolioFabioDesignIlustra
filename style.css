@@ -6,13 +6,7 @@ header{
     border-bottom: 10px solid #D6D6D6;
     padding: 10px 20px;
 }
-h1{
-    font-family: "Anton";
-    font-style: bold;
-    font-size: 20px;
-    color:white;
-    text-shadow: 1px 1px 0px #333533;
-}
+
 a{
     display: inline-flex;
     align-items: center;
@@ -45,4 +39,12 @@ a::before{
 }
 #navHeader{
     text-align: right;
+}
+
+h2{
+    font-family: "Anton";
+    font-style: bold;
+    font-size: 20px;
+    color:white;
+    text-shadow: 1px 1px 0px #333533;
 }
